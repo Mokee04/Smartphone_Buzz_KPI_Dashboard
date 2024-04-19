@@ -1,0 +1,10 @@
+
+data/SMP_Buzz_Kpi_Quarterly.xlsx
+data/SMP_Buzz_Kpi_Yearly.xlsx
+data/SMP_Buzz_Raw(2021)_v1.csv
+data/SMP_Buzz_Raw(2022)_v1.csv
+data/SMP_Buzz_Raw(2023)_v1.csv
+data/~$SMP_Buzz_Kpi_Yearly.xlsx
+.ipynb_checkpoints/Processing_KPI_v1-checkpoint.ipynb
+.ipynb_checkpoints/Generating_Rawdata_v1-checkpoint.ipynb
+private/pymysql_info.txt
