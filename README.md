@@ -44,4 +44,5 @@
      
 * 샘플 대시보드 작업 결과
 
-![태블로 대시보드_샘플 이미지](https://github.com/Mokee04/Smartphone_Buzz_KPI_Dashboard/assets/66994825/a9a291a9-f4ca-475d-a169-7d935ee238e3)
+![지역별 대시보드_포폴_20240419](https://github.com/Mokee04/Smartphone_Buzz_KPI_Dashboard/assets/66994825/d8160b8a-3e6d-4cf0-90b1-5e94591b0532)
+
