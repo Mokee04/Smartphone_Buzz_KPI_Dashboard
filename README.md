@@ -20,7 +20,7 @@
       : 스마트폰 관련 기사 수집 데이터(로데이터)를 생성합니다.
   
   (2) **Processing_KPI_v1.ipynb**
-      : PyMySQL 라이브러리를 활용해, 로데이터로부터 연 & 분기 단위 KPI를 집계한 테이블을 만듭니다.
+      : PyMySQL 라이브러리, Pandas와 MySQL 쿼리를 활용해 로데이터로부터 연 & 분기 단위 KPI를 집계한 테이블을 만듭니다.
   
   (3) **SMPBUZZ_KPI_Yearly & Quarterly_v1.twb**
       : 연 & 분기 단위 KPI 테이블을 활용해, 2023 S 브랜드 국가별 스마트폰 KPI 대시보드를 구축합니다.
