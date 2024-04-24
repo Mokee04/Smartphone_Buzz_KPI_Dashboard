@@ -10,7 +10,7 @@
 
 * 활용 도구
   - Python
-  - SQL
+  - MySQL
   - Tableau
   
 ---
