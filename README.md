@@ -7,7 +7,7 @@
 * 프로젝트 개요
   - 스마트폰 관련 기사 수집 데이터를 가공하여, 2023년도 S 브랜드의 스마트폰 Buzz KPI 현황을 확인할 수 있는 대시보드 구축하기
   - Python과 MySQL을 활용해 데이터를 생성 후 가공하고, 태블로로 대시보드 구축
-  - pymySQL 라이브러리를 활용해 Jupyter Notebook 환경에서 MySQL DB에 접속 후 SQL 쿼리로 데이터 가공
+  - pymySQL 라이브러리를 활용해 Jupyter Notebook 환경에서 MySQL DB에 접속 후, SQL 쿼리로 데이터 가공
 
 * 활용 도구
   - Python
